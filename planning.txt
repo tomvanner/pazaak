@@ -1,0 +1,10 @@
+Client
+================
+Create a profile
+Select the side deck
+Match with a player/bot
+Play
+
+Main deck contains 4 of each card 1-10
+Side deck is chosen by the player and consists of 10 cards
+Best of 3
